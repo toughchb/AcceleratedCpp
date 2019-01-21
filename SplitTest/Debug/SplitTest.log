@@ -1,0 +1,3 @@
+﻿  split.cpp
+d:\chaeprogramming\cplusplus\acceleratedcpp\splittest\split.cpp(103): error C2143: 구문 오류: ';'이(가) ')' 앞에 없습니다.
+d:\chaeprogramming\cplusplus\acceleratedcpp\splittest\split.cpp(104): error C2059: 구문 오류: '}'
